@@ -1,2 +1,2 @@
 # ProjectButler
-Changelog for python IRC bot "Alfred"
+Information for Python IRC bot "Alfred"
