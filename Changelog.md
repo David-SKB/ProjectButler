@@ -8,4 +8,4 @@ Features:
 * Can now view tracker targets
 
 BugFixes:
-* Fixed track detecting messages from the home channel
+* Fixed tracker detecting messages from the home channel
