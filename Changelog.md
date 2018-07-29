@@ -5,6 +5,7 @@ Features:
 * Added ability to untrack.
 * Added multiple admin support (more than just me)
 * Added join and leave channel commands
+* Can now view tracker targets
 
 BugFixes:
 * Fixed track detecting messages from the home channel
