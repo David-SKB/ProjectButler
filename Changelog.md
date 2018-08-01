@@ -1,4 +1,4 @@
-### 1.1: July 29, 2018
+### 1.1: August 01, 2018
 Features:
 * Modified join command to allow for passwords
 * Stopwatch command now works from ingame for all users
