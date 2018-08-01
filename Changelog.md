@@ -15,7 +15,7 @@ BugFixes:
 
 ***
 
-### 1.0: July 29, 2018 - Live Release
+### 1.0: July 29, 2018 - Release
 Features:
 * Added Stopwatch functionality.
 * Added Timer functionality.
