@@ -23,6 +23,7 @@ Features:
 * Added multiple admin support (more than just me)
 * Added join and leave channel commands
 * Can now view tracker targets
+* Out of Beta
 
 BugFixes:
 * Fixed tracker detecting messages from the home channel
