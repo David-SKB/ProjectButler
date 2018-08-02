@@ -1,2 +1,2 @@
 # ProjectButler
-Information for Python IRC bot "Alfred"
+Repository for Python IRC bot "Alfred"
